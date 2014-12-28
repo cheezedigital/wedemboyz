@@ -1,0 +1,27 @@
+body {
+  background-color: #CCFFCC;
+}
+.btn-default {
+  border-color: #1e1e1e;
+  padding: 25px 25px 25px 25px;
+  background-color: #99FF66;
+  color: #1e1e1e;
+  font-size: 25px;
+}
+.holda {
+  text-align: center;
+  padding-top: 350px;
+}
+.container {
+  text-align: center;
+}
+.boyz {
+  font-size: 250px;
+}
+.home {
+  align: center;
+}
+a:hover {
+  text-decoration: none;
+  color: #1e1e1e;
+}
