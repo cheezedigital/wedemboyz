@@ -1,4 +1,7 @@
 require './test/test_helper'
+# require 'test_helper'
+# require_relative '../test_helper'
+
 
 class NuggetsNugTest < Minitest::Test
 
